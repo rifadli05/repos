@@ -1,4 +1,3 @@
-# repos
 Apache Friends
 Menu
 Applications
